@@ -1,0 +1,9 @@
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\bin\Debug\netcoreapp3.1\ProjectA.Service.deps.json
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\bin\Debug\netcoreapp3.1\ProjectA.Service.dll
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\bin\Debug\netcoreapp3.1\ProjectA.Service.pdb
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.csprojAssemblyReference.cache
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.AssemblyInfoInputs.cache
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.AssemblyInfo.cs
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.csproj.CoreCompileInputs.cache
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.dll
+C:\Users\Brkco\source\repos\ProjectA\ProjectA.Service\obj\Debug\netcoreapp3.1\ProjectA.Service.pdb
